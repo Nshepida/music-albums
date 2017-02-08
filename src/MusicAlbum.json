@@ -1,0 +1,151 @@
+[
+	{
+		"id" : "1",
+		"name" : "Addel",
+		"song" : "Hello",
+		"duration" :"4:55"
+		
+	},
+	{
+		"id" : "2",
+		"name" : "Addel",
+		"song" : "Send My Love (To Your New Lover)",
+		"duration" :"4:53"
+		
+	},
+	{
+		"id" : "3",
+		"name" : "Addel",
+		"song" : "Send My Love (To Your New Lover)",
+		"duration" :"3:43"
+		
+	},
+	{
+		"id" : "4",
+		"name" : "Addel",
+		"song" : "I Miss You",
+		"duration" :"5:49"
+		
+	},
+	{
+		"id" : "5",
+		"name" : "Addel",
+		"song" : "When We Were Young",
+		"duration" :"4:51"
+		
+	},
+		{
+		"id" : "6",
+		"name" : "Fernando Daniel",
+		"song" : "When We Were Young",
+		"duration" :"2:36"
+		
+	},
+	{
+		"id" : "7",
+		"name" : "Sam Smith",
+		"song" : "I'm Not The Only One",
+		"duration" :"4:39"
+		
+	},
+	{
+		"id" : "8",
+		"name" : "Sam Smith",
+		"song" : "Stay With Me",
+		"duration" :"3:29"
+		
+	},
+	{
+		"id" : "9",
+		"name" : "Sam Smith",
+		"song" : "Hurts (lyrics)",
+		"duration" :"4:44"
+		
+	},
+	{
+		"id" : "10",
+		"name" : "Ed Sheeran",
+		"song" : "Shape Of You [Official Lyric Video]",
+		"duration" :"3:56"
+		
+	},
+	
+
+	{
+		"id" : "11",
+		"name" : "The Weeknd",
+		"song" : "Starboy (official)",
+		"duration" :"4:34"
+		
+	},
+	
+	{
+		"id" : "12",
+		"name" : "Ed Sheeran",
+		"song" : "Castle On The Hill [Official Lyric Video]",
+		"duration" :"4:21"
+		
+	},  
+		{
+		"id" : "13",
+		"name" : "Clean Bandit",
+		"song" : "Rockabye ft. Sean Paul & Anne-Marie [Official Video]",
+		"duration" :"4:14"
+		
+	},  
+
+	{
+		"id" : "14",
+		"name" : "The Chainsmokers",
+		"song" : "Closer ft. Halsey",
+		"duration" :"4:07"
+		
+	},
+   	{
+		"id" : "15",
+		"name" : "Andra",
+		"song" : "Why (Official Video)",
+		"duration" :"2:59"
+		
+	},
+      	{
+		"id" : "16",
+		"name" : "DJ Snake",
+		"song" : "Let Me Love You (Official Video)",
+		"duration" :"3:26"
+		
+	},
+    	{
+		"id" : "17",
+		"name" : "DJ Snake",
+		"song" : "Let Me Love You",
+		"duration" :"3:26"
+		
+	},
+	    	{
+		"id" : "18",
+		"name" : "Migos",
+		"song" : "Bad and Boujee ft Lil Uzi Vert",
+		"duration" :"5:35"
+		
+	},
+	    	{
+		"id" : "19",
+		"name" : "Maroon 5",
+		"song" : "Don't Wanna Know",
+		"duration" :"6:19"
+		
+	},
+	    	{
+		"id" : "20",
+		"name" : "James Arthur",
+		"song" : "Say You Won't Let Go",
+		"duration" :"3:31"
+		
+	}
+	
+]	
+	
+   
+
+
